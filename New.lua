@@ -154,11 +154,11 @@ ImageLabel_5.Size = UDim2.new(0, 136, 0, 35)
 ImageLabel_5.Image = "rbxassetid://110885655073504"
 
 execute2.MouseButton1Click:Connect(function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/kigredns/SanderXV4.2.2/refs/heads/main/NormalSS.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/YabesRBLXYT/SanderXV4.2.2/refs/heads/main/NormalSS.lua'))()
 end)
 
 execute1.MouseButton1Click:Connect(function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/kigredns/SanderXV4.2.2/refs/heads/main/sanderxvipSS.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/YabesRBLXYT/SanderXV4.2.2/refs/heads/main/sanderxvipSS.lua'))()
 end)
 
 -- Function to copy the link when clicked
